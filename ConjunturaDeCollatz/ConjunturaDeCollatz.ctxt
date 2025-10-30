@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ConjunturaDeCollatz
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ ConjunturaDeCollatz\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=n
+comment1.target=ConjunturaDeCollatz(int)
+comment2.params=
+comment2.target=int\ getN()
+comment3.params=
+comment3.target=int\ processar()
+comment4.params=nmeroAValidar
+comment4.target=boolean\ isPair(int)
+numComments=5

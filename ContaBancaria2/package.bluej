@@ -1,3 +1,63 @@
 #BlueJ package file
-#Tue Oct 28 12:30:15 WET 2025
+dependency1.from=ContaBancariaTest
+dependency1.to=ContaBancaria
+dependency1.type=UsesDependency
+<<<<<<< HEAD
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+objectbench.height=185
+objectbench.width=1511
+package.divider.horizontal=0.6
+package.divider.vertical=0.76621490803485
+package.editor.height=627
+package.editor.width=1391
+package.editor.x=0
+package.editor.y=0
+package.frame.height=926
+package.frame.width=1550
+=======
+editor.fx.0.height=1039
+editor.fx.0.width=974
+editor.fx.0.x=953
+editor.fx.0.y=0
+objectbench.height=89
+objectbench.width=934
+package.divider.horizontal=0.6
+package.divider.vertical=0.8977635782747604
+package.editor.height=836
+package.editor.width=812
+package.editor.x=0
+package.editor.y=0
+package.frame.height=1039
+package.frame.width=974
+>>>>>>> 90d760ec801f1dc382735ed2c342b556e8a8f6cc
+package.numDependencies=1
+package.numTargets=2
+package.showExtends=true
+package.showUses=true
 project.charset=UTF-8
+readme.height=60
+readme.name=@README
+readme.width=49
+readme.x=10
+readme.y=10
+target1.height=70
+target1.name=ContaBancariaTest
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=140
+<<<<<<< HEAD
+target1.x=10
+=======
+target1.x=70
+>>>>>>> 90d760ec801f1dc382735ed2c342b556e8a8f6cc
+target1.y=90
+target2.height=70
+target2.name=ContaBancaria
+target2.showInterface=false
+target2.type=ClassTarget
+target2.width=120
+target2.x=70
+target2.y=10
