@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ParqueEstacionamento
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ ParqueEstacionamento\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=id\ numLugares\ morada
+comment1.target=ParqueEstacionamento(int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ numLugaresLivres()
+comment3.params=
+comment3.target=int\ numLugaresOcupados()
+comment4.params=index
+comment4.target=boolean\ checkLugarLivre(int)
+comment4.text=\r\n\ m\u00E9todo\ para\ verificar\ a\ disponibilidade\ de\ um\ lugar\r\n\ passando\ a\ posi\u00E7\u00E3o/index\ do\ arratlist\r\n\ retorna\ true\ se\ o\ lugar\ tiver\ disponivel\r\n\ e\ retorno\ falso\ se\ tiver\ ocupado\r\n
+comment5.params=autocarro
+comment5.target=boolean\ ocuparLugar(Autocarro)
+comment6.params=autocarro
+comment6.target=boolean\ ocuparLugar2(Autocarro)
+comment7.params=autocarro
+comment7.target=boolean\ desocuparLugar(Autocarro)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

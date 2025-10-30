@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Curso
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Curso\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=Curso()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Curso\r\n
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=id
+comment3.target=void\ setId(int)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getProfessores()
+comment7.params=Professores
+comment7.target=void\ setProfessores(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getDisciplinas()
+comment9.params=disciplinas
+comment9.target=void\ setDisciplinas(java.lang.String)
+numComments=10

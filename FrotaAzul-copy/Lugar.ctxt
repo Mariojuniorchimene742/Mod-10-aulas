@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Lugar
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Lugar\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=id\ livre
+comment1.target=Lugar(int,\ boolean)
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=Id
+comment3.target=void\ setId(int)
+comment4.params=
+comment4.target=boolean\ getLivre()
+comment5.params=livre
+comment5.target=void\ setLivre(boolean)
+comment6.params=
+comment6.target=Autocarro\ getAutocarro()
+comment7.params=autocarro
+comment7.target=void\ setAutocarro(Autocarro)
+numComments=8

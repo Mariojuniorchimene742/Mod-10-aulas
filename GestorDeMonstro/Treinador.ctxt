@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Treinador
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Treinador\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=nome
+comment1.target=Treinador(java.lang.String)
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Treinador\r\n
+comment2.params=m
+comment2.target=void\ capturarMonstro(Monstro)
+comment3.params=nomeMonstro
+comment3.target=boolean\ libertarMonstro(java.lang.String)
+comment4.params=
+comment4.target=void\ mostrarEquipa()
+comment5.params=
+comment5.target=void\ treinarTodos()
+numComments=6

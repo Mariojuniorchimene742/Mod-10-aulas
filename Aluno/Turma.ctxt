@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Turma
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Turma\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=Turma()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Turma\r\n
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=id
+comment3.target=void\ setId(int)
+comment4.params=
+comment4.target=int\ getNumAlunos()
+comment5.params=numAlunos
+comment5.target=void\ setNumAlunos(int)
+comment6.params=
+comment6.target=java.lang.String\ getNome()
+comment7.params=nome
+comment7.target=void\ setNome(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getAno()
+comment9.params=Ano
+comment9.target=void\ setAno(java.lang.String)
+numComments=10

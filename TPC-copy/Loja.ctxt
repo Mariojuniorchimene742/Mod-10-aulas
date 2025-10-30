@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Loja
+comment1.params=nome\ produto1\ produto2
+comment1.target=Loja(java.lang.String,\ Produto,\ Produto)
+comment2.params=
+comment2.target=void\ mostrarProdutos()
+numComments=3
